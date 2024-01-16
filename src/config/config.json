@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Geeeky Astro",
-    "base_url": "https://example.com",
+    "title": "I.AI",
+    "base_url": "https://www.wowaigc.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "39",
-    "logo_text": "Geeky"
+    "logo_text": "I.AI"
   },
 
   "settings": {
@@ -28,14 +28,16 @@
 
   "params": {
     "contact_form_action": "#",
-    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
-    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
+    "footer_content": 
+    "Unleashing the Future with AI: Discover the Latest in AI News, Engage with Chat Tools, and Learn Expert Advice on Harnessing AI's Power at I.AI.",
+    "copyright": "@2024 I.AI All Rights Reserved."
   },
 
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+      "content": 
+      "Unleashing the Future with AI: Discover the Latest in AI News, Engage with Chat Tools, and Learn Expert Advice on Harnessing AI's Power at I.AI"
     },
     "featured_posts": {
       "enable": true,
@@ -47,9 +49,9 @@
       "title": "Blog Categories"
     },
     "newsletter": {
-      "enable": true,
+      "enable": false,
       "title": "Newsletter",
-      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "content": "Stay Ahead with AI: Subscribe to I.AI's Newsletter for the Latest Insights and Updates!",
       "privacy_policy_page": "#",
       "malichipm_url": ""
     }
@@ -57,17 +59,17 @@
   "navigation_button": {
     "enable": true,
     "label": "Get Started",
-    "link": "https://example.com"
+    "link": "https://www.wowaigc.com"
   },
 
   "metadata": {
-    "meta_author": "statichunt",
+    "meta_author": "I.AI",
     "meta_image": "/images/og-image.png",
     "meta_description": "astro and tailwind boilerplate"
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   }

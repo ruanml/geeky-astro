@@ -1,34 +1,13 @@
 ---
-title: About The Author
+title: About The I.AI
 image: /images/author.png
 description: "meta description"
-education:
-  title: Formal Education
-  degrees:
-    - university: "Southeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Northeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Easteast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Southeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-
-experience:
-  title: Work Experience
-  list:
-    - Best Writer Award
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best Book
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus ndisse. morbi quis nunc.
+I.AI is a fusion of technology and vision, spearheaded by a team deeply rooted in artificial intelligence, technology, and innovation. Our founders, seasoned in technology, academia, and business, envisioned a unique platform that not only informs but empowers individuals and businesses to harness AI's potential. Supporting them is a diverse group of data scientists, software engineers, AI researchers, and content creators, each dedicated to demystifying AI and making it accessible and ethical.
 
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse. morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis ndisse. morbi quis nunc, at arcu quam facilisi ndisse. morbi quis nunc, at arcu quam facilisi
+Our data scientists and engineers are the backbone of I.AI, working tirelessly to push the boundaries of machine learning and develop user-friendly interfaces for our AI chat tools and news platform. Meanwhile, our AI researchers stay ahead of the curve, constantly updating our content with the latest developments and insights in AI. They ensure that I.AI is not just a news source but a thought leader in the AI space.
+
+The content team at I.AI plays a crucial role in breaking down complex AI concepts into engaging and understandable content. Their commitment is to educate and inform a diverse audience, ranging from AI novices to tech professionals.
+
+I.AI stands out for its dedication to ethical AI and community engagement, striving to be a hub for AI enthusiasts and curious minds, encouraging collaboration and collective growth in the AI landscape.

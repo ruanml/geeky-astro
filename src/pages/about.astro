@@ -36,51 +36,6 @@ const { title, image, education, experience } = data as AboutPage;
       <div class="content text-left">
         <Content />
       </div>
-
-      <div class="row mt-24 text-left lg:flex-nowrap">
-        <div class="lg:col-6">
-          <div
-            class="rounded border border-border p-6 dark:border-darkmode-border"
-          >
-            <h2
-              class="section-title mb-12"
-              set:html={markdownify(education.title)}
-            />
-
-            <div class="row">
-              {
-                education.degrees.map((degree, index) => (
-                  <div class="mb-7 md:col-6">
-                    <h4 class="text-base lg:text-[25px]">
-                      {degree.university}
-                    </h4>
-                    <p class="mt-2">{degree.content}</p>
-                  </div>
-                ))
-              }
-            </div>
-          </div>
-        </div>
-        <div class="experience mt-10 lg:mt-0 lg:col-6">
-          <div
-            class="rounded border border-border p-6 dark:border-darkmode-border"
-          >
-            <h2
-              class="section-title mb-12"
-              set:html={markdownify(experience.title)}
-            />
-            <ul class="row">
-              {
-                experience?.list?.map((item, index) => (
-                  <li class="mb-5 text-lg font-bold text-dark dark:text-darkmode-light lg:col-6">
-                    {item}
-                  </li>
-                ))
-              }
-            </ul>
-          </div>
-        </div>
-      </div>
     </div>
   </section>
 </Base>

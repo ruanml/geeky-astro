@@ -1,8 +1,8 @@
 {
-  "name": "geeky-astro",
+  "name": "i.ai",
   "version": "1.0.0",
   "description": "",
-  "author": "statichunt",
+  "author": "I.AI",
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {
