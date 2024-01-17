@@ -41,4 +41,6 @@ ChatGPT is a groundbreaking tool that showcases the incredible potential of conv
 
 For more information and to try ChatGPT, visit [OpenAI's ChatGPT page](https://openai.com/chatgpt).
 
-*Stay tuned for more updates on AI and technology in our tech news section.*
+---
+
+Stay updated with the latest in AI technology and Google Gemini's developments by following our tech blog!

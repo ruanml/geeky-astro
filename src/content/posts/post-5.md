@@ -43,3 +43,7 @@ As an open-source project, AutoGPT's future is shaped by its community of users 
 AutoGPT represents an exciting development in the world of AI, pushing the boundaries of what conversational models like GPT-4 can do. Its growing community and open-source nature suggest that AutoGPT will continue to evolve, bringing more advanced and user-friendly AI experiences to a broader audience.
 
 For the latest updates and to contribute to the project, visit the [AutoGPT GitHub repository](https://github.com/Significant-Gravitas/Auto-GPT).
+
+---
+
+Stay updated with the latest in AI technology and Google Gemini's developments by following our tech blog!

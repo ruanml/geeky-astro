@@ -56,4 +56,6 @@ As we look ahead, several trends and developments are likely to shape the AI lan
 
 The year 2023 was a testament to the rapid progress of AI, and 2024 promises to build on these advancements, bringing AI closer to our everyday experiences. As we navigate the evolving landscape of AI, the focus will likely remain on harnessing its potential responsibly and ethically, ensuring that AI continues to benefit society as a whole.
 
-Stay tuned for more updates on the exciting world of AI in our upcoming blog posts!
+---
+
+Stay updated with the latest in AI technology and Google Gemini's developments by following our tech blog!
