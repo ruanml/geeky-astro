@@ -16,7 +16,7 @@ featured_posts:
   title: Featured Posts
 
 promotion:
-  enable: false
+  enable: true
   image: /images/promotion.png
   link: "#"
 
